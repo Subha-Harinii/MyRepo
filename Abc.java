@@ -7,5 +7,7 @@ public class Abc
    System.out.println("hello everybody");
 
 }
+
+System.out.println("good morning all");
 }
 }
